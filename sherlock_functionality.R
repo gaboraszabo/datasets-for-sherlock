@@ -71,7 +71,7 @@ plot_method_comparison <- youden_plot_data_2 %>%
 
 # Median line added to visualize amount of bias
 # Bias seems to be linear
-# This information provides the investigator with clues as to what 
+# This information provides the investigator with clues as to what the cause of the bias could be
 
 
 sherlock::save_analysis(data = youden_plot_data_2, 
